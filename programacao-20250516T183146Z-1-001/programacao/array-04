@@ -1,0 +1,6 @@
+let times = ["Palmeiras", "Flamengo", "São Paulo", "Corinthians", "Grêmio"];
+
+//Percorrendo com for tradicional
+for (let i = 0; i < times.length; i++) {
+    console.log(`Time de índice ${i}: ${times[i]}`); 
+};

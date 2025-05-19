@@ -1,0 +1,10 @@
+let amigos = ["Fernando", "Luiz", "Jhonatan", "Piva", "Boehm"];
+console.log(amigos[2]);
+
+amigos[1] = "eu mesmo";
+amigos[5] = "Kaike";
+
+
+console.log(amigos.length);
+console.log(amigos);
+console.table(amigos)
